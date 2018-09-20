@@ -34,3 +34,9 @@ git remote add origin https://github.com/lzq0301/vue-try.git
 git add .
 git push -u origin master
 ```
+
+### try some
+1. 新建链接页面
+    * router/==index.js== 里添加可访问得链接地址
+    * components中添加自己的==MyHelloWorld.vue==页面
+
